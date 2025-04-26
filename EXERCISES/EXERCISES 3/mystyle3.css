@@ -1,0 +1,23 @@
+.education-box{
+        max-width: 600px;
+        margin: 50px auto;
+        background-color: whitesmoke;
+        border: 2px solid;
+        border-radius: 10px;
+        padding: 30px;
+}
+
+.education-box h2{
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center;
+}
+
+.education-box li{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.education-box p{
+    text-decoration: underline;
+}
